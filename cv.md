@@ -37,9 +37,10 @@ Although my previous experience is not connected to the target I am going to, I 
 
    - `HTML`
    - `CSS`
-   - `Pure JavaScript`
    - `BEM metodology`
    - `SSAS / LESS`
+   - `Vanilla JavaScript`
+   - `ReactJS basics`
    - `GIT`
    - `Github`
 
